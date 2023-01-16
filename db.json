@@ -1,0 +1,444 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Nguyễn Quốc Huy",
+      "age": 22,
+      "major": "Software Engineering",
+      "gender": "Male",
+      "score": 3.5
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Thị Kiều Oanh",
+      "age": 24,
+      "major": "Computer Science",
+      "gender": "Female",
+      "score": 3.0
+    },
+    {
+      "id": 3,
+      "name": "Nguyễn Thị Kim Ngân",
+      "age": 22,
+      "major": "Software Engineering",
+      "gender": "Female",
+      "score": 3.75
+    },
+    {
+      "id": 4,
+      "name": "Trương Tấn Sang",
+      "age": 22,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 3.25
+    },
+    {
+      "id": 5,
+      "name": "Trần Ngọc Hà",
+      "age": 23,
+      "major": "Information System",
+      "gender": "Female",
+      "score": 3.5
+    },
+    {
+      "id": 6,
+      "name": "Trần Phàm",
+      "age": 25,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 4.0
+    },
+    {
+      "id": 7,
+      "name": "Lưu Phong Sương",
+      "age": 20,
+      "major": "Information System",
+      "gender": "Female",
+      "score": 3.9
+    },
+    {
+      "id": 8,
+      "name": "Nguyễn Tấn Phát",
+      "age": 22,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 2.5
+    },
+    {
+      "id": 9,
+      "name": "Trần Đăng Khoa",
+      "age": 22,
+      "major": "Computer Science",
+      "gender": "Male",
+      "score": 4.0
+    },
+    {
+      "id": 10,
+      "name": "Nguyễn Thị Tuyết Nhi",
+      "age": 22,
+      "major": "Computer Network",
+      "gender": "Female",
+      "score": 2.0
+    },
+    {
+      "id": 11,
+      "name": "Nguyễn Quốc Huy",
+      "age": 22,
+      "major": "Software Engineering",
+      "gender": "Male",
+      "score": 3.5
+    },
+    {
+      "id": 12,
+      "name": "Nguyễn Thị Kiều Oanh",
+      "age": 24,
+      "major": "Computer Science",
+      "gender": "Female",
+      "score": 3.0
+    },
+    {
+      "id": 13,
+      "name": "Nguyễn Thị Kim Ngân",
+      "age": 22,
+      "major": "Software Engineering",
+      "gender": "Female",
+      "score": 3.75
+    },
+    {
+      "id": 14,
+      "name": "Trương Tấn Sang",
+      "age": 22,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 3.25
+    },
+    {
+      "id": 15,
+      "name": "Trần Ngọc Hà",
+      "age": 23,
+      "major": "Information System",
+      "gender": "Female",
+      "score": 3.5
+    },
+    {
+      "id": 16,
+      "name": "Trần Phàm",
+      "age": 25,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 4.0
+    },
+    {
+      "id": 17,
+      "name": "Lưu Phong Sương",
+      "age": 20,
+      "major": "Information System",
+      "gender": "Female",
+      "score": 3.9
+    },
+    {
+      "id": 18,
+      "name": "Nguyễn Tấn Phát",
+      "age": 22,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 2.5
+    },
+    {
+      "id": 19,
+      "name": "Trần Đăng Khoa",
+      "age": 22,
+      "major": "Computer Science",
+      "gender": "Male",
+      "score": 4.0
+    },
+    {
+      "id": 20,
+      "name": "Nguyễn Thị Tuyết Nhi",
+      "age": 22,
+      "major": "Computer Network",
+      "gender": "Female",
+      "score": 2.0
+    },
+    {
+      "id": 21,
+      "name": "Nguyễn Quốc Huy",
+      "age": 22,
+      "major": "Software Engineering",
+      "gender": "Male",
+      "score": 3.5
+    },
+    {
+      "id": 22,
+      "name": "Nguyễn Thị Kiều Oanh",
+      "age": 24,
+      "major": "Computer Science",
+      "gender": "Female",
+      "score": 3.0
+    },
+    {
+      "id": 23,
+      "name": "Nguyễn Thị Kim Ngân",
+      "age": 22,
+      "major": "Software Engineering",
+      "gender": "Female",
+      "score": 3.75
+    },
+    {
+      "id": 24,
+      "name": "Trương Tấn Sang",
+      "age": 22,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 3.25
+    },
+    {
+      "id": 25,
+      "name": "Trần Ngọc Hà",
+      "age": 23,
+      "major": "Information System",
+      "gender": "Female",
+      "score": 3.5
+    },
+    {
+      "id": 26,
+      "name": "Trần Phàm",
+      "age": 25,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 4.0
+    },
+    {
+      "id": 27,
+      "name": "Lưu Phong Sương",
+      "age": 20,
+      "major": "Information System",
+      "gender": "Female",
+      "score": 3.9
+    },
+    {
+      "id": 28,
+      "name": "Nguyễn Tấn Phát",
+      "age": 22,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 2.5
+    },
+    {
+      "id": 29,
+      "name": "Trần Đăng Khoa",
+      "age": 22,
+      "major": "Computer Science",
+      "gender": "Male",
+      "score": 4.0
+    },
+    {
+      "id": 30,
+      "name": "Nguyễn Thị Tuyết Nhi",
+      "age": 22,
+      "major": "Computer Network",
+      "gender": "Female",
+      "score": 2.0
+    },
+    {
+      "id": 31,
+      "name": "Nguyễn Quốc Huy",
+      "age": 22,
+      "major": "Software Engineering",
+      "gender": "Male",
+      "score": 3.5
+    },
+    {
+      "id": 32,
+      "name": "Nguyễn Thị Kiều Oanh",
+      "age": 24,
+      "major": "Computer Science",
+      "gender": "Female",
+      "score": 3.0
+    },
+    {
+      "id": 33,
+      "name": "Nguyễn Thị Kim Ngân",
+      "age": 22,
+      "major": "Software Engineering",
+      "gender": "Female",
+      "score": 3.75
+    },
+    {
+      "id": 34,
+      "name": "Trương Tấn Sang",
+      "age": 22,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 3.25
+    },
+    {
+      "id": 35,
+      "name": "Trần Ngọc Hà",
+      "age": 23,
+      "major": "Information System",
+      "gender": "Female",
+      "score": 3.5
+    },
+    {
+      "id": 36,
+      "name": "Trần Phàm",
+      "age": 25,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 4.0
+    },
+    {
+      "id": 37,
+      "name": "Lưu Phong Sương",
+      "age": 20,
+      "major": "Information System",
+      "gender": "Female",
+      "score": 3.9
+    },
+    {
+      "id": 38,
+      "name": "Nguyễn Tấn Phát",
+      "age": 22,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 2.5
+    },
+    {
+      "id": 39,
+      "name": "Trần Đăng Khoa",
+      "age": 22,
+      "major": "Computer Science",
+      "gender": "Male",
+      "score": 4.0
+    },
+    {
+      "id": 40,
+      "name": "Nguyễn Thị Tuyết Nhi",
+      "age": 22,
+      "major": "Computer Network",
+      "gender": "Female",
+      "score": 2.0
+    },
+    {
+      "id": 41,
+      "name": "Nguyễn Quốc Huy",
+      "age": 22,
+      "major": "Software Engineering",
+      "gender": "Male",
+      "score": 3.5
+    },
+    {
+      "id": 42,
+      "name": "Nguyễn Thị Kiều Oanh",
+      "age": 24,
+      "major": "Computer Science",
+      "gender": "Female",
+      "score": 3.0
+    },
+    {
+      "id": 43,
+      "name": "Nguyễn Thị Kim Ngân",
+      "age": 22,
+      "major": "Software Engineering",
+      "gender": "Female",
+      "score": 3.75
+    },
+    {
+      "id": 44,
+      "name": "Trương Tấn Sang",
+      "age": 22,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 3.25
+    },
+    {
+      "id": 45,
+      "name": "Trần Ngọc Hà",
+      "age": 23,
+      "major": "Information System",
+      "gender": "Female",
+      "score": 3.5
+    },
+    {
+      "id": 46,
+      "name": "Trần Phàm",
+      "age": 25,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 4.0
+    },
+    {
+      "id": 47,
+      "name": "Lưu Phong Sương",
+      "age": 20,
+      "major": "Information System",
+      "gender": "Female",
+      "score": 3.9
+    },
+    {
+      "id": 48,
+      "name": "Nguyễn Tấn Phát",
+      "age": 22,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 2.5
+    },
+    {
+      "id": 49,
+      "name": "Trần Đăng Khoa",
+      "age": 22,
+      "major": "Computer Science",
+      "gender": "Male",
+      "score": 4.0
+    },
+    {
+      "id": 50,
+      "name": "Nguyễn Thị Tuyết Nhi",
+      "age": 22,
+      "major": "Computer Network",
+      "gender": "Female",
+      "score": 2.0
+    },
+    {
+      "id": 51,
+      "name": "Nguyễn Quốc Huy",
+      "age": 22,
+      "major": "Software Engineering",
+      "gender": "Male",
+      "score": 3.5
+    },
+    {
+      "id": 52,
+      "name": "Nguyễn Thị Kiều Oanh",
+      "age": 24,
+      "major": "Computer Science",
+      "gender": "Female",
+      "score": 3.0
+    },
+    {
+      "id": 53,
+      "name": "Nguyễn Thị Kim Ngân",
+      "age": 22,
+      "major": "Software Engineering",
+      "gender": "Female",
+      "score": 3.75
+    },
+    {
+      "id": 54,
+      "name": "Trương Tấn Sang",
+      "age": 22,
+      "major": "Information Security",
+      "gender": "Male",
+      "score": 3.25
+    },
+    {
+      "id": 55,
+      "name": "Trần Ngọc Hà",
+      "age": 23,
+      "major": "Information System",
+      "gender": "Female",
+      "score": 3.5
+    }
+  ]
+}
